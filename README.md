@@ -16,3 +16,10 @@ audio-zapise te kako pripremamo i popravljamo zvučne zapise da budu prikladni u
 Zatim, imam kod u JS-u koji prikljuplja podatke kroz mikrofon klikom na gumb, trenira model te nakon treniranja,
 klikom na gumb "slušaj" prima ulaze kroz mikrofon i klasificira ono što je računalo "čulo" što je vizualizirano 
 pomicanjem slidera lijevo (ako je prva klasa) te desno (ako se radilo o drugoj klasi) .
+
+
+https://codepen.io/mteahubhug/pen/bGwYWQW - prikupljanje podataka, treniranje modela i test
+
+https://editor.p5js.org/matealukic/sketches/ipefekceX - HipHop vs- Grunge 
+
+https://editor.p5js.org/matealukic/sketches/0bQzhaoys - igrica u kojoj player puca u balone na odsviran akord G-dur na gitari
