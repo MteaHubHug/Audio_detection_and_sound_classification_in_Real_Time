@@ -23,3 +23,14 @@ https://codepen.io/mteahubhug/pen/bGwYWQW - prikupljanje podataka, treniranje mo
 https://editor.p5js.org/matealukic/sketches/ipefekceX - HipHop vs- Grunge 
 
 https://editor.p5js.org/matealukic/sketches/0bQzhaoys - igrica u kojoj player puca u balone na odsviran akord G-dur na gitari
+
+
+literatura, reference, osobe linkovi koji su mi pomogli : : : 
+https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw The Coding Train - sve od ovog YouTubera dobro dođe, Zove se Daniel Shiffman
+https://www.youtube.com/watch?v=s2N4ciMqS-E&list=LL - Yaser Adel Mehraban 
+
+https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/audio/simple_audio.ipynb
+https://www.tensorflow.org/hub/tutorials/yamnet
+https://codelabs.developers.google.com/codelabs/tensorflowjs-audio-codelab/index.html#9
+
+
