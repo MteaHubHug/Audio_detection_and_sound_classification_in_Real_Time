@@ -1,5 +1,5 @@
 # Detekcija-zvuka-i-klasifikacija-audio-zapisa
-tags : AI, Machine Learing, Convolution, Deep Neural Networks, CNN, Computer Vision 
+#tags : AI, Machine Learing, Convolution, Deep Neural Networks, CNN, Computer Vision 
 tagovi : umjetna inteligencija, strojno učenje, računarni vid ,konvolucijske neuronske mreže
 
 Croduino nova32 pločicu - mikrokontroler. Kako sam kući imala komadić pametne LED- trake,
